@@ -3,7 +3,7 @@
 Download Center สำหรับโปรแกรมของ Bomby
 
 ## Latest Version
-v0.4.2
+v0.4.0
 
 ## Programs
 - Bomby Browser
